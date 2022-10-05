@@ -3,11 +3,11 @@
   <title>卑微小陈的Blog</title>
   
   <subtitle>前景可待，未来可期</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://104483264.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://104483264.github.io/"/>
   <updated>2022-10-04T14:39:30.068Z</updated>
-  <id>http://example.com/</id>
+  <id>https://104483264.github.io/</id>
   
   <author>
     <name>卑微小陈</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://104483264.github.io/posts/4a17b156.html"/>
+    <id>https://104483264.github.io/posts/4a17b156.html</id>
     <published>2022-10-04T12:41:55.285Z</published>
     <updated>2022-10-04T14:39:30.068Z</updated>
     
