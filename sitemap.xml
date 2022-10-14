@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://104483264.github.io/posts/6482513a.html</loc>
+    
+    <lastmod>2022-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://104483264.github.io/posts/baa4bd7f.html</loc>
     
     <lastmod>2022-10-13</lastmod>
@@ -67,29 +76,36 @@
 
   <url>
     <loc>https://104483264.github.io/</loc>
-    <lastmod>2022-10-13</lastmod>
+    <lastmod>2022-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://104483264.github.io/tags/spingboot/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://104483264.github.io/tags/maven/</loc>
-    <lastmod>2022-10-13</lastmod>
+    <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://104483264.github.io/tags/spingMVC/</loc>
-    <lastmod>2022-10-13</lastmod>
+    <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://104483264.github.io/tags/sping/</loc>
-    <lastmod>2022-10-13</lastmod>
+    <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,7 +114,7 @@
   
   <url>
     <loc>https://104483264.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-10-13</lastmod>
+    <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
